@@ -27,3 +27,9 @@ Sno|Name
 -----|-----
 1|Vivek
 2|Kush
+
+😄
+😠
+
+<!-- This content will not appear in the rendered Markdown -->
+
